@@ -1,0 +1,15 @@
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\bin\Debug\net6.0\Diginext Test Project.exe
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\bin\Debug\net6.0\Diginext Test Project.deps.json
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\bin\Debug\net6.0\Diginext Test Project.runtimeconfig.json
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\bin\Debug\net6.0\Diginext Test Project.dll
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\bin\Debug\net6.0\Diginext Test Project.pdb
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.csproj.AssemblyReference.cache
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.AssemblyInfoInputs.cache
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.AssemblyInfo.cs
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.csproj.CoreCompileInputs.cache
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.dll
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\refint\Diginext Test Project.dll
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.pdb
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\Diginext Test Project.genruntimeconfig.cache
+C:\Users\Golch\source\repos\Diginext Test Project\Diginext Test Project\obj\Debug\net6.0\ref\Diginext Test Project.dll
